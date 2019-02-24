@@ -1,0 +1,68 @@
+1234
+1234.4321
+'computer'
+"computer"
+a = 6
+string = 'engineering'
+a + b
+'engine' + 'ering'
+c = a + 3 + 2*b
+'deadbeef' * 5
+a > 8
+b = 6
+a ^ 6
+a ^ b
+a = b + 5
+a^b
+b^a
+a^b^b
+a>b
+b>a
+not (a>b)
+not (b>a)
+not (a <= 9)
+1 = []
+l = []
+l.append('aes dana')
+l.append(45)
+l.append(cookies)
+l.append('cookies')
+l.append("brownies")
+l.append(a)
+l.append(a*b)
+l.append("major appendage")
+l.count()
+l.count('brownies')
+l.extend('brownies')
+l.pop('cookies')
+l.pop(66)
+l.pop(5)
+l.pop(4)
+l.pop(45)
+l.pop(11)
+l.insert(dog)
+l.insert('dog')
+l.insert(dog, cat)
+l.insert(cookies, brownies)
+l.insert(a, b)
+l.insert (a, b)
+l.insert (b, a)
+d = {}
+d[0] = 'zero'
+d['mana'] = 'Mexican pop group'
+d[0]
+d[l]
+d[1] = 'one'
+d[1]
+d.items(1)
+d.items()
+d.pop(k)
+d.pop(1)
+d.pop(2)
+d.pop(mana)
+d.pop(0)
+type(d)
+type(l)
+tyle('abba')
+type(5)
+type('abba')
